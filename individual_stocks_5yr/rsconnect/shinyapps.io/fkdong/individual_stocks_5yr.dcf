@@ -1,0 +1,13 @@
+name: individual_stocks_5yr
+title: individual_stocks_5yr
+username:
+account: fkdong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 619261
+bundleId: 1769919
+url: https://fkdong.shinyapps.io/individual_stocks_5yr/
+when: 1545110177.87685
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: sandp500
